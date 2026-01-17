@@ -11,10 +11,10 @@ A Python-based simulator for visualizing 2D dynamical systems, fixed points, and
 Simulations of pendulum dynamics beyond small-angle approximations, exploring multiple stable and unstable points.
 
 ### 3. Billiards Simulation
-A 2D billiard simulation modeling collisions and trajectories, demonstrating chaotic behavior in classical systems.
+A 2D billiard simulation modeling collisions and trajectories.
 
 ### 4. Waves Simulator
-Numerical modeling of wave propagation in 1D and 2D media, including interference and boundary effects.
+Numerical modeling of wave propagation in 1D and 2D media.
 
 ### 5. LaTeX Simplifier
 A Python tool to parse and simplify LaTeX expressions symbolically, integrating with SymPy for computation.
